@@ -1,3 +1,3 @@
 print("Creating Merge conflict")
 print("Stressfull")
-print("+ Exciting")
+print("+ Excitig")
