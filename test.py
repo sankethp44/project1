@@ -1,6 +1,4 @@
 print("Hello world")
-print("Hi")
-print("Merge")
-a=10
-b=10
-print(a*b*b)
+a=[10,20,30,40,50]
+for i in range(5):
+    print(a[i])
